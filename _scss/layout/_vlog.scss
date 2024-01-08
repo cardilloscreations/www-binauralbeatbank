@@ -44,7 +44,7 @@ section.vlog-section {
 
   // Vlog Articles Container
   .vlog-articles-container {
-    margin-top: 80px;
+    margin-top: 1.5em;
 
     // Responsive Media
     .col-md-4 {
@@ -121,12 +121,13 @@ section.vlog-section {
           font-style: italic;
           font-weight: bold;
           text-transform: uppercase;
+
           .month {
             padding: 0 0.5em;
           }
         }
 
-        // Article Text - Small
+        // Article Text
         .article-text {
           font-size: 1.3rem;
         }
@@ -145,20 +146,40 @@ section.vlog-section {
         header.article-header {
           .article-title {
             margin: 0;
-  
+
             h3.title {
               color: $color-light-primary;
               font-size: 1.5rem;
             }
           }
         }
-        
+
         .article-date {
           margin-top: 0.5em;
         }
       }
-  
+
     }
 
+    // Vlog Front Page Preview
+    &.vlog-preview {
+
+      // Smaller Article Text for Front Page
+      article.vlog-article {
+        .article-text {
+          font-size: 1.1rem;
+
+          a {
+            color: $color-light-primary;
+
+            &:hover,
+            &:active {
+              color: $color-light-link;
+            }
+          }
+        }
+      }
+
+    }
   }
 }
