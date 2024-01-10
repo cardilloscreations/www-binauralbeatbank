@@ -8,7 +8,7 @@ youtubeid: uRoupxrSZ8Q
 ---
 
 <p class="premono" markdown="1">
-Coax your brain into a creative state with this program. It combines a 10Hz binaural beat (Alpha waves) with a 432Hz carrier tone ("miracle tone"). The 10Hz binaural beats are associated with encouraging creative thought. Likewise, the 432Hz frequency is associated with activating creativity (divergent thinking). Combined, it can be a powerful way to encourage your brain into a creative state.
+Coax your brain into a creative state with this program. It combines a 10Hz binaural beat (aka, Alpha waves) with a 432Hz carrier tone (aka "universal frequency"). The 10Hz binaural beats are associated with encouraging creative thought. Likewise, the 432Hz frequency is associated with opening the mind and activating creativity (divergent thinking). Combined, it can be a powerful way to encourage your brain into a creative state.
 
 Listen to the entire 15 minutes. Your brain needs at least 5 minutes to synchronize. Most research suggests 15 minutes minimum. Some suggest 30 or 60 minutes, so see instructions below to enable looping if you want to play it longer.
 
