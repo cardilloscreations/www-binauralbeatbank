@@ -12,7 +12,7 @@ Helps get the brain into a focused state first (40hz) and then progressively tra
 
 This was inspired by experiments that have had success reducing stress and anxiety using Binaural Beats of 40Hz, 10Hz, or 6Hz for only 5 minutes. Other research has found that 40Hz beats for 5-10 minutes helps to increase focus.
 
-Listen to the entire 15 minutes. Your brain needs at least 5 minutes to synchronize. Most research shows that 15 minutes is minimum required. Some suggest 30 or 60 minutes, so see instructions to enable looping if you want to play it longer.
+Listen to the entire 15 minutes. Your brain needs at least 5 minutes to synchronize. Most research suggests 15 minutes minimum. Some suggest 30 or 60 minutes, so see instructions below to enable looping if you want to play it longer.
 
 Please SUBSCRIBE so I can disable mid-roll ads.
 
