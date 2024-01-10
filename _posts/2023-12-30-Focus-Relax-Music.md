@@ -3,7 +3,7 @@ layout: youtube-post
 title:  'Focus & Relax // Music // Binaural Beats 40Hz 10Hz 6Hz // 15mins'
 date: 2023-12-30
 categories: [Focus, Relax]
-tags: [40hz, 10Hz, 6Hz]
+tags: [40Hz, 10Hz, 6Hz]
 youtubeid: 4SoNbeuPeqI
 ---
 
