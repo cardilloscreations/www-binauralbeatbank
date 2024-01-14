@@ -37,7 +37,7 @@ Documents a pilot study that successfully used 10Hz Binaural Beats with a 400Hz 
 Sadeghijam, M., Moossavi, A., Akbari, M. et al. An increase in the auditory steady-state response amplitudes after a period of listening to binaural beat stimuli in tinnitus patients: a pilot study. Egypt J Otolaryngology 39, 39 (2023).
 ━━━━━━━━━━━━━━━━━━━━
 𝐃𝐈𝐒𝐂𝐋𝐀𝐈𝐌𝐄𝐑 :
-Any information provided is a result of my personal experience and personal research. I am not a medical professional. This is not a substitute for proper medical, psychological, or spiritual advice. This content is strictly for personal experimentation and entertainment. By voluntarily using this content, you assume all risks for any resulting losses, injuries, or damages.
+Any information provided is a result of my personal experience and personal research. I am not a medical professional. This is not a substitute for proper medical, psychological, or spiritual advice. This content is strictly for personal experimentation and entertainment. By voluntarily using this content, you take full responsibility for any consequences, and you assume all risks and liabilities, including any losses, injuries, or damages.
 ━━━━━━━━━━━━━━━━━━━━
 #tinnitus #binaural #binauralbeats
 </p>

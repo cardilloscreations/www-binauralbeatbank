@@ -39,7 +39,7 @@ A skeptical systematic review, but I like this paper because the author presents
 Ingendoh, Ruth Maria et al. “Binaural beats to entrain the brain? A systematic review of the effects of binaural beat stimulation on brain oscillatory activity, and the implications for psychological research and intervention.” PloS one vol. 18,5 e0286023. 19 May. 2023, doi:10.1371/journal.pone.0286023
 ━━━━━━━━━━━━━━━━━━━━
 𝐃𝐈𝐒𝐂𝐋𝐀𝐈𝐌𝐄𝐑 :
-Any information provided is a result of my personal experience and personal research. I am not a medical professional. This is not a substitute for proper medical, psychological, or spiritual advice. This content is strictly for personal experimentation and entertainment. By voluntarily using this content, you assume all risks for any resulting losses, injuries, or damages.
+Any information provided is a result of my personal experience and personal research. I am not a medical professional. This is not a substitute for proper medical, psychological, or spiritual advice. This content is strictly for personal experimentation and entertainment. By voluntarily using this content, you take full responsibility for any consequences, and you assume all risks and liabilities, including any losses, injuries, or damages.
 ━━━━━━━━━━━━━━━━━━━━
 #meditation #meditationmusic #binaural #binauralbeats #relaxingmusic #creative #alphawaves #writersblock
 </p>
