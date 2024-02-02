@@ -1,6 +1,6 @@
 ---
 layout: youtube-post
-title:  'Focus & Heal // 40Hz Binaural Beats via 285Hz Solfeggio Tone for Physical Pain Relief'
+title:  'Focus & Heal // 40Hz Binaural Beats via 285Hz Solfeggio Tone for Tissue Repair & Healing'
 date: 2024-01-25
 categories: [Focus, Concentration, Healing]
 tags: [40Hz, 285Hz, Solfeggio]
