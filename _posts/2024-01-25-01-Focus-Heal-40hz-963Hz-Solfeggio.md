@@ -14,7 +14,7 @@ The brain needs at least 5 minutes to synchronize, and each video in this series
 
 The best way to use them, especially when studying or learning, is to listen long enough to synchronize your brain and then stop (or switch to noise) and focus on the activity that requires your attention.
 
-Two albums are being released on all major music streaming services in the next few weeks (Focus & Heal: 40Hz Binaural Beats with Solfeggio Healing Tones). The "Pure Edition" tracks are 30 minutes of 40Hz Binaural Beats using Solfeggio tones. The "Extended Edition" tracks are 60 minutes long and start with 15 minutes of 40Hz Binaural Beats and then transition into 45 minutes of Solfeggio tones for extended listening sessions while working.
+Two albums are available on all major music streaming services: Focus & Heal: 40Hz Binaural Beats with Solfeggio Healing Tones. The original edition has nine (9) eighteen (18) minute tracks, each using a specific Solfeggio tone to create a 40Hz Binaural Beat. The "Half & Half" edition starts the same way, but then transition to a pure Solfeggio tone (with no Binaural Beats) after the first nine (9) minutes.
 
 Use the playlist to see all (9) Solfeggio frequency tracks:
 <https://www.youtube.com/playlist?list=PLLBjY1PHHlbiJvLu6dnvOraFv31ArcMhQ>
