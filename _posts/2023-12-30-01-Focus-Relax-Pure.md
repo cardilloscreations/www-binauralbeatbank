@@ -20,13 +20,11 @@ Please SUBSCRIBE so I can disable mid-roll ads.
 
 PURE TONES: This version contains only pure tones, which provide clean binaural beats for optimal brain entrainment. If you prefer a version with light music and ambient waves, which some prefer to help distract the brain, see the alternate version below.
 
-[Alternate version with light music.](/focus/relax/2023/12/30/Focus-Relax-Music.html)
+[Alternate version with light music.](/focus/relax/2023/12/30/01-Focus-Relax-Music)
 
 ━━━━━━━━━━━━━━━━━━━━
-𝐖𝐀𝐑𝐍𝐈𝐍𝐆𝐒 :
-1. DO NOT LISTEN to these or any other Binaural Beats when driving, operating machinery, or performing any task that requires your full focus and attention. They affect everyone differently and can induce a meditative state in some people.
-2. SEEK MEDICAL ADVICE before listening to these or any other Binaural Beats if you have any conditions that may be triggered in some way (e.g., Epileptic, Seizures, Pregnant, Pacemaker, Mind Altering Drugs).
-3. LISTEN AT A COMFORTABLE LEVEL so you don't cause ear damage. Louder volume does not increase the effectiveness of brain entrainment.
+𝐖𝐀𝐑𝐍𝐈𝐍𝐆𝐒 & 𝐃𝐈𝐒𝐂𝐋𝐀𝐈𝐌𝐄𝐑 :
+See the [WARNINGS & DISCLAIMER](/legal/disclaimer.html) page.
 ━━━━━━━━━━━━━━━━━━━━
 𝐈𝐍𝐒𝐓𝐑𝐔𝐂𝐓𝐈𝐎𝐍𝐒 :
 1. Use decent quality stereo headphones and make sure they are in the correct ears (left and right). Headphones with noise isolation are even better.
@@ -38,9 +36,6 @@ PURE TONES: This version contains only pure tones, which provide clean binaural 
 A skeptical systematic review, but I like this paper because the author presents the background very well and refers to several interesting studies.
 <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10198548/>
 Ingendoh, Ruth Maria et al. “Binaural beats to entrain the brain? A systematic review of the effects of binaural beat stimulation on brain oscillatory activity, and the implications for psychological research and intervention.” PloS one vol. 18,5 e0286023. 19 May. 2023, doi:10.1371/journal.pone.0286023
-━━━━━━━━━━━━━━━━━━━━
-𝐃𝐈𝐒𝐂𝐋𝐀𝐈𝐌𝐄𝐑 :
-Any information provided is a result of my personal experience and personal research. I am not a medical professional. This is not a substitute for proper medical, psychological, or spiritual advice. This content is strictly for personal experimentation and entertainment. By voluntarily using this content, you take full responsibility for any consequences, and you assume all risks and liabilities, including any losses, injuries, or damages.
 ━━━━━━━━━━━━━━━━━━━━
 #meditation #meditationmusic #binaural #binauralbeats #relaxingmusic #focus
 </p>

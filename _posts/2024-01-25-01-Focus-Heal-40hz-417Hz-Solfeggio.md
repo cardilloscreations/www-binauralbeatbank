@@ -25,10 +25,8 @@ Please 𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄 so you don't miss new content. 𝐋�
 𝐏𝐑𝐎𝐆𝐑𝐀𝐌 :
 00:00 40 Hz (417Hz Right Ear / 377Hz Left Ear)
 ━━━━━━━━━━━━━━━━━━━━
-𝐖𝐀𝐑𝐍𝐈𝐍𝐆𝐒 :
-1. DO NOT LISTEN to these or any other Binaural Beats when driving, operating machinery, or performing any task that requires your full focus and attention. They affect everyone differently and can induce a meditative state in some people.
-2. SEEK MEDICAL ADVICE before listening to these or any other Binaural Beats if you have any conditions that may be triggered in some way (e.g., Epileptic, Seizures, Pregnant, Pacemaker, Mind Altering Drugs).
-3. LISTEN AT A COMFORTABLE LEVEL so you don't cause ear damage. Louder volume does not increase the effectiveness of brain entrainment.
+𝐖𝐀𝐑𝐍𝐈𝐍𝐆𝐒 & 𝐃𝐈𝐒𝐂𝐋𝐀𝐈𝐌𝐄𝐑 :
+See the [WARNINGS & DISCLAIMER](/legal/disclaimer.html) page.
 ━━━━━━━━━━━━━━━━━━━━
 𝐈𝐍𝐒𝐓𝐑𝐔𝐂𝐓𝐈𝐎𝐍𝐒 :
 1. Use decent quality stereo headphones and make sure they are in the correct ears (left and right). Headphones with noise isolation are even better.
@@ -42,9 +40,6 @@ Please 𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄 so you don't miss new content. 𝐋�
 <https://scholar.google.com/scholar?as_ylo=2020&q=40hz++%22binaural+beats%22&hl=en&as_sdt=0,10>
 2. Some studies have found benefits from listening to Solfeggio tones.
 <https://scholar.google.com/scholar?hl=en&as_sdt=0%2C10&q=solfeggio+frequency+positive+effects&btnG=>
-━━━━━━━━━━━━━━━━━━━━
-𝐃𝐈𝐒𝐂𝐋𝐀𝐈𝐌𝐄𝐑 :
-Any information provided is a result of my personal experience and personal research. I am not a medical professional. This is not a substitute for proper medical, psychological, or spiritual advice. This content is strictly for personal experimentation and entertainment. By voluntarily using this content, you take full responsibility for any consequences, and you assume all risks and liabilities, including any losses, injuries, or damages.
 ━━━━━━━━━━━━━━━━━━━━
 #binauralbeats #40hz #417hz #brainwaves #braintraining #focus #focusmusic #concentration #concentrationmusic #study #studymusic #solfeggio #solfeggiofrequencies #healing #healingmusic
 </p>

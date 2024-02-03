@@ -30,10 +30,8 @@ Those who want a longer session can use the playlist instead.
 0:48:39 (s02e07) Chickadee Returns
 1:12:42 (s02e08) The Clampetts Are Overdrawn
 ━━━━━━━━━━━━━━━━━━━━
-𝐖𝐀𝐑𝐍𝐈𝐍𝐆𝐒 :
-1. DO NOT LISTEN to these or any other Binaural Beats when driving, operating machinery, or performing any task that requires your full focus and attention. They affect everyone differently and can induce a meditative state in some people.
-2. SEEK MEDICAL ADVICE before listening to these or any other Binaural Beats if you have any conditions that may be triggered in some way (e.g., Epileptic, Seizures, Pregnant, Pacemaker, Mind Altering Drugs).
-3. LISTEN AT A COMFORTABLE LEVEL so you don't cause ear damage. Louder volume does not increase the effectiveness of brain entrainment.
+𝐖𝐀𝐑𝐍𝐈𝐍𝐆𝐒 & 𝐃𝐈𝐒𝐂𝐋𝐀𝐈𝐌𝐄𝐑 :
+See the [WARNINGS & DISCLAIMER](/legal/disclaimer.html) page.
 ━━━━━━━━━━━━━━━━━━━━
 𝐈𝐍𝐒𝐓𝐑𝐔𝐂𝐓𝐈𝐎𝐍𝐒 :
 1. To benefit from the binaural beats, use decent quality stereo headphones and make sure they are in the correct ears (left and right). Headphones with noise isolation are even better.
@@ -46,9 +44,6 @@ Studies have shown that 3Hz binaural beats for 90 minutes improves sleep quality
 Studies show that red light helps with melatonin production (and blue light inhibits it):
 ➢ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3499892/
 ➢ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6506010/
-━━━━━━━━━━━━━━━━━━━━
-𝐃𝐈𝐒𝐂𝐋𝐀𝐈𝐌𝐄𝐑 :
-Any information provided is a result of my personal experience and personal research. I am not a medical professional. This is not a substitute for proper medical, psychological, or spiritual advice. This content is strictly for personal experimentation and entertainment. By voluntarily using this content, you take full responsibility for any consequences, and you assume all risks and liabilities, including any losses, injuries, or damages.
 ━━━━━━━━━━━━━━━━━━━━
 #sitcomsleeper #thebeverlyhillbillies #sleep #sleepsounds #sleepquality #redlighttherapy #sitcom #classictv #tvshow #trippy #binaural #binauralbeats #solfeggio #174hz
 </p>
