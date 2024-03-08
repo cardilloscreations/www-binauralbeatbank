@@ -1,0 +1,46 @@
+---
+layout: page
+title: Featured <strong>Videos</strong>
+menu: Videos
+---
+
+<div class="video-articles-container">
+
+  {% for video in site.videos %}
+
+  <article class="video-article clearfix">
+
+    <header class="article-header">
+      <div class="img-wrap">
+        <a href="{{ site.baseurl }}{{ video.url }}">
+          {% if video.youtubeid %}
+          <img src="https://img.youtube.com/vi/{{ video.youtubeid }}/maxresdefault.jpg" alt="Article YouTube Thumbnail" onerror="this.onerror=null;this.src='https://img.youtube.com/vi/{{ video.youtubeid }}/sddefault.jpg';">
+          {% elsif video.image %}
+          <img src="{{ site.baseurl }}/assets/images/videos/{{ video.image }}" alt="Article Video Log Image">
+          {% endif %}
+        </a>
+      </div>
+      <div class="article-title text-center">
+        <h3 class="title"><a href="{{ site.baseurl }}{{ video.url }}">{{ video.title }}</a></h3>
+      </div>
+    </header>
+
+    <div class="article-content">
+      <div class="article-date text-center">
+        <span class="year">{{ video.date | date: "%Y" }}</span>
+        <span class="month">{{ video.date | date: "%b" }}</span>
+        <span class="day">{{ video.date | date: "%d" }}</span>
+      </div>
+      <div class="article-text">
+        {{ video.excerpt | strip_html | truncatewords:75 }}
+      </div>
+      <div class="show-more">
+        <a href="{{ site.baseurl }}{{ video.url }}" class="btn btn-primary">Read More</a>
+      </div>
+    </div>
+
+  </article>
+
+  {% endfor %}
+
+</div>

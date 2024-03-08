@@ -1,18 +1,35 @@
 ---
-layout: post
+layout: page
 excerpt_separator: "━━━━━━━━━━━━━━━━━━━━"
 ---
 
-{% if page.youtubeid %}
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/{{ page.youtubeid }}" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-{% endif %}
+<div class="video-articles-container">
+  <article class="video-article single-page clearfix">
 
-<div class="article-date text-center">
-  <span class="year">{{ page.date | date: "%Y" }}</span>
-  <span class="month">{{ page.date | date: "%b" }}</span>
-  <span class="day">{{ page.date | date: "%d" }}</span>
-</div>
+    <!-- Article Header -->
+    <header class="article-header">
+      {% if page.image %}
+      <div class="img-wrap">
+        <img src="{{ site.baseurl }}/assets/images/blog/{{ page.image }}" alt="Article Image">
+      </div>
+      {% endif %}
+    </header>
 
-{{ content }}
+    <div class="article-content">
+      {% if page.youtubeid %}
+      <div class="ratio ratio-16x9">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.youtubeid }}" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+      {% endif %}
+
+      <div class="article-date text-center">
+        <span class="year">{{ page.date | date: "%Y" }}</span>
+        <span class="month">{{ page.date | date: "%b" }}</span>
+        <span class="day">{{ page.date | date: "%d" }}</span>
+      </div>
+
+      {{ content }}
+    </div>
+
+  </article>
+</div>

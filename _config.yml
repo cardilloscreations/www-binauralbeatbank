@@ -13,7 +13,6 @@ exclude:
   - "LICENSE"
   - "README.md"
   - "DEVELOPMENT.md"
-  - "_posts/README.md"
   - "*.js"
   - "*.json"
   - "assets/images/favicon/*.md"
@@ -23,20 +22,17 @@ exclude:
 # Plugins
 plugins:
   - jekyll-sitemap
-  - jekyll-archives
 
 # Sass configuration
 sass:
   sass_dir: _scss
 
-# See GitHub repo for jekyll-archives for more information:
-# https://github.com/jekyll/jekyll-archives/
-jekyll-archives:
-  enabled: [categories, tags]
-  layout: archive
-  permalinks:
-    tag: '/tag/:name/'
-    category: '/category/:name/'
+collections_dir: collections
+collections:
+  videos:
+    output: true
+
+excerpt_separator: <!--excerpt-->
 
 # Information for deploy
 baseurl: ""

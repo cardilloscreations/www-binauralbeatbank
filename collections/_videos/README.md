@@ -16,5 +16,5 @@ A collection of reminders when creating new posts.
 ## Resources
 
 - **/assets/** - contains any additional images or resources that are being hosted and served for the post.
-- **/assets/images/vlog/** - contains the post header image and I will name them after the post so they're consistent.
+- **/assets/images/videos/** - contains the video header image and I will name them after the post so they're consistent.
 - **embedded** - most posts will also have a YouTube video embedded but will not be hosted here.

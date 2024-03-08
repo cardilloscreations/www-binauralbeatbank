@@ -1,0 +1,47 @@
+<section class="site-section video-section text-center" id="videos">
+  <header class="section-header">
+    <h2>
+      Recent Videos
+    </h2>
+  </header>
+  <div class="section-content">
+    <blockquote cite="{{ site.url }}">
+      Most recent sample videos from the <a href="{{ site.youtube }}" target="_blank">@BinauralBeatBank</a>
+      YouTube channel.
+    </blockquote>
+    <div class="row video-articles-container video-preview">
+      {% assign videos = site.videos | sort: 'date' | reverse %}
+      {% for video in videos limit:3 %}
+      <div class="col-lg">
+        <article class="video-article clearfix">
+          <header class="article-header">
+            <div class="img-wrap">
+              <a href="{{ site.baseurl }}{{ video.url }}">
+                {% if video.youtubeid %}
+                <img src="https://img.youtube.com/vi/{{ video.youtubeid }}/mqdefault.jpg" alt="Article YouTube Thumbnail" onerror="this.onerror=null;this.src='https://img.youtube.com/vi/{{ video.youtubeid }}/maxresdefault.jpg';">
+                {% elsif video.image %}
+                <img src="images/videos/{{ video.image }}" alt="Article Video Log Image">
+                {% endif %}
+              </a>
+            </div>
+            <div class="article-title text-center">
+              <h3 class="title"><a href="{{ site.baseurl }}{{ video.url }}">{{ video.title }}</a></h3>
+            </div>
+          </header>
+          <div class="article-content">
+            <div class="article-text">
+              <a href="{{ site.baseurl }}{{ video.url }}">
+                <p>{{ video.excerpt | strip_html | truncatewords:50 }}</p>
+              </a>
+            </div>
+          </div>
+        </article>
+      </div>
+      {% endfor %}
+    </div>
+    <div class="text-center">
+      <hr class="small">
+      <a href="videos.html" class="btn btn-primary col-md-3 col-sm-5 col-xs-8">All Featured Videos</a>
+    </div>
+  </div>
+</section>
