@@ -20,7 +20,7 @@ Please SUBSCRIBE so I can disable mid-roll ads.
 
 MUSIC: This version has light music and ambient waves in the background, but their volume is intentionally low. The idea is to avoid interfering with the binaural beats. The music can help distract your mind, but there isn't a lot of research on this technique. If you want the pure tones, for more intense brain entrainment, see the alternate version below.
 
-[Alternate version with no music (pure tones).](/focus/relax/2023/12/30/01-Focus-Relax-Pure)
+[Alternate version with no music (pure tones).]({% link _videos/2023-12-30-01-Focus-Relax-Pure.md %})
 
 ━━━━━━━━━━━━━━━━━━━━
 𝐖𝐀𝐑𝐍𝐈𝐍𝐆𝐒 & 𝐃𝐈𝐒𝐂𝐋𝐀𝐈𝐌𝐄𝐑 :

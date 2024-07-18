@@ -20,7 +20,7 @@ Please 𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄 so you don't miss new content, and t
 
 PURE TONES: This version contains only pure tones, which provide clean binaural beats for optimal brain entrainment. If you prefer a version with light music and ambient waves, which some prefer to help distract the brain, see the alternate version below.
 
-[Alternate version with light music.](/focus/relax/meditation/2024/02/02/01-Focus-Relax-8min-Music)
+[Alternate version with light music.]({% link _videos/2024-02-02-01-Focus-Relax-8min-Music.md %})
 
 ━━━━━━━━━━━━━━━━━━━━
 𝐏𝐑𝐎𝐆𝐑𝐀𝐌 :

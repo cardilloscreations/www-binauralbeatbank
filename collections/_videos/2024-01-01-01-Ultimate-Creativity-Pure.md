@@ -18,7 +18,7 @@ Please SUBSCRIBE so I can disable mid-roll ads.
 
 PURE TONES: This version contains only pure tones, which provide clean binaural beats for optimal brain entrainment. If you prefer a version with light music and ambient waves, which some prefer to help distract the brain, see the alternate version below.
 
-[Alternate version with light music.](/creativity/2024/01/01/01-Ultimate-Creativity-Music)
+[Alternate version with light music.]({% link _videos/2024-01-01-01-Ultimate-Creativity-Music.md %})
 
 ━━━━━━━━━━━━━━━━━━━━
 𝐖𝐀𝐑𝐍𝐈𝐍𝐆𝐒 & 𝐃𝐈𝐒𝐂𝐋𝐀𝐈𝐌𝐄𝐑 :
